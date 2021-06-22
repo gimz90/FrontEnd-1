@@ -1,0 +1,27 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: normal;
+}
+
+header{
+    background-color: #e6e6e6;
+    text-align: center;
+}
+.logo{
+    text-align: center;
+}
+
+h1,h2{
+    background-color: #c4c4c4;
+    color:blue ;
+}
+
+main{
+    width: 1041px;
+    height: 460px;
+  }
+
+  .lista{
+      list-style: none;
+  }
