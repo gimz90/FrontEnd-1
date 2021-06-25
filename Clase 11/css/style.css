@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Roboto;
+
+}
+
+
+h1{
+    color: #FC200C;
+}
+.text-white{
+    color: white;
+}
+
+header{
+    background-color:#222222;
+    position: relative;
+    width: 1024px;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+              
+}
+
+.arriba{
+    color: white;
+    display: flex;
+    list-style: none;
+    width: 284px;
+    height: 19px;
+    padding-right: 20px;
+    padding-top: 40px;
+    justify-content: space-between;
+         
+}
+
+.logo1{
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+main{
+    background: #E5E5E5;
+    width: 1024px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.position{
+    position: relative;
+    
+}
+
+.delivery{
+    margin-left: 19px;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    width: 491px;
+    height: 350px;
+  }
+
+.envio{
+      position: absolute;
+      top: 20px;
+      left: 20px;
+  }
+
+
+.pedido{
+    background-color:#FFFFFF;
+    width: 491px;
+    height: 350px;
+    margin-right: 19px;
+    border-radius: 5px;
+    
+    /* display: flex; */
+    align-content: space-between;
+    align-items: center;
+    
+}
+
+
+
+.contenedor2{
+    margin-left: 51px;
+    margin-top: 58px;
+
+    
+}
+.podio{
+    text-align: center;
+    margin-top: 26px;
+    
+}
+
+ol li{
+    margin-top: 10px;
+}
+h2{
+    font-size: 20px;
+    position: relative;
+    padding-left: 69px;
+}
+
+ol{
+    font-weight: bold;
+    
+}
+
+.foto2{
+    position:absolute;
+    right: 74px;
+    bottom: 89px;
+    width: 92px;
+    height: 129px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    background-color:#222222;
+    position: relative;
+    width: 1024px;
+    height: 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+     
+}
+
+.abajo{
+    color: white;
+    list-style: none;
+    line-height: 30px;
+    margin-left: 20px;
+}
+.logo2{
+    width: 212px;
+    height: 80px;
+    margin-right: 42px;    
+}
